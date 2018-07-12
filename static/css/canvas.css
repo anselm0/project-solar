@@ -37,10 +37,9 @@ body {
 * Create a position for the map
 * on the page */
 #cmap {
-  top: 0;
-  bottom: 0;
   height: 500px;
   width: 100%;
+  margin-bottom: 20px;
 }
 
 .footer {

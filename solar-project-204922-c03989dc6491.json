@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "solar-project-204922",
+  "private_key_id": "c03989dc6491a20e3bff9c51b6a4effaa4910f2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpNlP95S0guhZ2\nipbEs2hsDKjjwXcEvPd47bInIxVLdvU8WctStdbxaTNGr9YNtDN0QUSjLutziguB\norWUPMenXFT8pkzOrJiLP1W3nWYpv6oWBI3I05qKsrUgd2N0Z6rCJr8NQGEEmZuP\nE1ioWbASi3Cjn3qLgzv3XtZshnKSFBxIo8wIkVScv1PcEywrzhJ0kdpDe5irZ0ZW\n9VB3U/pz8/srOdd8CSZ6MvHJcIP3fXzr8WDo3H2n8X9/VUiH3V2uzvGVBP1iGe+Y\nQK80ixjcUigbflJptgXxU1c6v0sGwKSVGFR7TMus6VQ7TdaS+AlM3n4fB7Y8Vgps\nf+h+uR0vAgMBAAECggEAHFGTTPKF0uxRxhT7ln/QAgU8XqGKIajeYcamAhbFAZQv\nBqKgfH8iMdTBWBslX7XAxrwFmKnJjdSUiGWKrfxeDYxOTNooEI6iGOvIlKoq5uHE\nvVqVv/5p5rxxw7U3V8vhsAx7/OPBWNu8RP2f4MzhwrjDaR7Pi3mzF3svt4nosrmU\n+Vk2GvDbWY6SYdanLrwiN06etTrbeBUwUXdom8XLPfwQm9l0ou4gYWQBbe405Wbw\ncYSO3aNUDx1g7DUQo4t4C/0qm3RpET32S6AuQQ3dX+b9JTrixCiYI/OyQdcU01aP\nCJYUFffxjuvoiV6IShyU+RQVAlu4lExk/fHm9feYQQKBgQDiUyOVrsANPe6aiNUB\nWC24knHMjyumCjiIBKv2fUofkP6NRdUdar8JSgVwK95yVzt2K25zWr8pZzGUFgfW\nhSo1r1EHe8JSdPOHNT/Yc4EbQRQm3Q/E5IT69fO54dv3iedTzClrNBRLISPGvCrV\nfB2vHXOSgFxgWe1pioZY/xtomwKBgQC/ZiNsN6vJdhxxPV8xnBd1oAFKTNSBl6Tu\nV1WgfAlRXmZuRYI30V10xgP8zw+rN2poxZ986J//PGvkdyrJwc90YZZofzw2pscA\nh9LcU7Vw3iy1VcWRFyHRXVCIHjmfzT+V5KLOG850D9hsslI0+9nQQAL1jXk5gHLe\nQrlmPD30/QKBgEUqGynXKaHiV1SqlE3A4NgTCOv2pOQtI3GN2++MAmb7LI+H08UV\npiP0lwzcmzJeLjHCvBJMnTbN7nzO7r5EG84kMaMT0yLX0sRzJXvEcKQfk0T9MaB+\nJZV8LGuV9l8DqcoWDmJQnBMJoaFOR9jOAVROr88JozFeygsC5mO0MnAZAoGAHkYL\niExt8Zmq+gZZDkHAPCyox5XLbwwLXF+X/aBg4Ovri7mW1TlabOP9MXmW4uALBrNr\nfJhW5koqTqLCs9Lh+2iMH88wOPy8MUtKgOsEoeuiarQ8Yayk/rahzEXrm2kdi5n0\nXmFrkFQJSXgTJKpJU3UsgqZz7DJy+NDY/mC89AkCgYEAtT2bvQd33t+PEG9C2JLm\nl47lTBLtZHWaBzKx8Lcy9S5tR/0zANKs5AO3R+ecnzS6Na5D7w6hNcG3uJjd2M5H\nOmF0nJq45AbN/ejCS+jVpE/qqIzTLxgHtbsVPDbukoEmQi1Vf8ANzmkN1LEVHyGJ\nsPQyFgaTubVNwMtminN/A1s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bg-connector@solar-project-204922.iam.gserviceaccount.com",
+  "client_id": "104233749570423098766",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bg-connector%40solar-project-204922.iam.gserviceaccount.com"
+}
